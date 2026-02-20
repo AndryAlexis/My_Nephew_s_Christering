@@ -1,9 +1,15 @@
 
-# My Niece's Fourth Birthday
+# My Nephew's Christening
 
 ## Description
-This project is dedicated to organizing and planning my niece's fourth birthday party. It includes various scripts and resources to ensure the event is a success.
+This project is dedicated to organizing and planning my nephew's christening. It includes scripts, resources, and utilities to help make the event a success.
+
+## Project Structure
+- **index.html**: Main page of the application.
+- **css/**: Stylesheets, fonts, and reset styles.
+- **js/**: Main scripts and JavaScript utilities.
+- **src/**: Additional resources such as configurations, images, fonts, and gifs.
 
 ## Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions that can help make the birthday party even more special.
+If you would like to contribute to this project, please fork the repository and submit a pull request. All contributions that help improve the organization of the christening are welcome.
 
