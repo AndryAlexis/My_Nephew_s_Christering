@@ -251,7 +251,22 @@ main {
                         }
                     }
                     &:last-child {
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        align-items: center;
                         font-size: 1.9rem;
+                        & figure {
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                        }
+                        & figure img {
+
+                            width: 250px;
+                            height: 250px;
+                            object-fit: cover;
+                        }
                     }
                 }
             }
