@@ -272,6 +272,13 @@ main {
             }
         }
     }
+    #invitation > div#content {
+        font-size: 2.5rem;
+
+        & figure > img {
+            object-fit: contain;
+        }
+    }
     #do-scroll {
         font-size: 1.3rem;
     }
