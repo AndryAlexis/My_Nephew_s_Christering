@@ -20,8 +20,8 @@
         "nb_sides": 3
       },
       "image": {
-        "src": "./src/images/balloons.webp",
-        "width": 2300,
+        "src": "./src/images/balloons.png",
+        "width": 1100,
         "height": 1910
       }
     },
