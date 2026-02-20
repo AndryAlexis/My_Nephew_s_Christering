@@ -165,10 +165,6 @@ main {
             }
 
             & figure {
-                overflow: hidden;
-                width: 100%;
-                height: 12.5rem;
-
                 &> img {
                     border-radius: 0.625rem;
                     width: 100%;
